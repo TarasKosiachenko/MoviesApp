@@ -23,4 +23,9 @@ export default {
 </script>
 
 <style>
+#app {
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smothing: antialiased;
+  -moz-osx-font-smothing: grayscale;
+}
 </style>

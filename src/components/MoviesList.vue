@@ -7,6 +7,9 @@
           <MovieItem :movie="movie" />
         </BCol>
       </template>
+      <template>
+        <div>Empty list</div>
+      </template>
     </BRow>
   </BContainer>
 </template>
