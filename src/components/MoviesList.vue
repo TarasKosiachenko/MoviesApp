@@ -10,7 +10,7 @@
           />
         </BCol>
       </template>
-      <template>
+      <template v-else>
         <div>Empty list</div>
       </template>
     </BRow>
