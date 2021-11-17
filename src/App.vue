@@ -74,5 +74,8 @@ export default {
   -webkit-font-smothing: antialiased;
   -moz-osx-font-smothing: grayscale;
   position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 </style>
